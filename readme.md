@@ -1,4 +1,4 @@
-# Distro List
+# P-List
 ![Demo](docs/demo.png)
 
 ## Descrição
